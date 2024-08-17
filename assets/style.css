@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    color: #777777;
+    font-size: 1.5rem;
+    background-color: #2D2E32;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+section, article {
+    margin-bottom: 3em;
+}
+
+header {
+    margin: 0 0 1.5em 0;
+}
